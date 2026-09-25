@@ -140,6 +140,10 @@ The enclosure was designed specifically for the PCB and components.
 
 I wanted the final design to look more like a finished product instead of just a PCB with switches attached to it. The case holds the electronics while keeping the switches, rotary encoder and OLED accessible.
 
+For assembling the case, I used 5 mm M3 screws instead of the provided 16 mm M3 screws. The shorter screws worked better with my enclosure design and were enough to securely hold the parts together and have some space for the desk mount to easily slide in from the bottom 
+
+![image alt](https://github.com/VickB8/Dis-Cord/blob/main/Images/CAse.png?raw=true)
+
 # Under-Desk Stand
 
 I designed a custom stand for mounting the hackpad underneath my desk.
