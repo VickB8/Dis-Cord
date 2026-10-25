@@ -221,6 +221,29 @@ Project images
 
 The finished hackpad combines the PCB, firmware, switches, OLED and enclosure into one device.
 
+## BOM (Bill of Materials)
+
+Here is everything needed to build the Dis-Cord hackpad.
+
+- 1× Seeed Studio XIAO RP2040
+- 6× MX-style mechanical switches (Cherry MX compatible)
+- 6× White blank DSA keycaps
+- 1× Rotary encoder (with push-button functionality)
+- 1× 0.91-inch OLED display (128×32)
+- 1× Custom-designed PCB
+- 1× Flexible 5V LED filament (Optional I am currently experimenting for this will update soon)
+- M3 × 5 mm screws for case assembly
+- M3 heat-set inserts for the enclosure
+- 1× Custom 3D-printed case
+- 1× Custom under-desk mounting stand
+- Connecting wires and solder
+
+## Extra Stuff
+
+- USB cable for connecting the macropad to a computer
+- Soldering iron and solder for assembly
+- 3D printer for the enclosure and mounting stand
+
 The main goal of the project was to make something that was both useful and custom instead of just making a basic macro pad. The two-layer system lets me use the same six buttons for normal computer shortcuts and Discord controls.
 
 This project helped me learn more about PCB design, embedded programming, USB HID, OLED displays, rotary encoders and designing physical enclosures for electronics.
