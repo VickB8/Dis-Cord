@@ -240,6 +240,12 @@ Here is everything needed to build the Dis-Cord hackpad.
 | M3x12mm Screws | 2 | [Amazon](https://www.amazon.ca/s?k=M3x12+screws) |
 | Custom PCB | 1 | [JLCPCB](https://jlcpcb.com/) |
 
+## Tools Required
+
+| Tool | Quantity | Purchase Link |
+|---|---:|---|
+| Soldering Kit | 1 | [Amazon Canada](https://www.amazon.ca/dp/B0DT437CP4) |
+
 ## Extra Stuff
 
 - USB cable for connecting the macropad to a computer
