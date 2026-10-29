@@ -225,18 +225,20 @@ The finished hackpad combines the PCB, firmware, switches, OLED and enclosure in
 
 Here is everything needed to build the Dis-Cord hackpad.
 
-- 1× Seeed Studio XIAO RP2040
-- 6× MX-style mechanical switches (Cherry MX compatible)
-- 6× White blank DSA keycaps
-- 1× Rotary encoder (with push-button functionality)
-- 1× 0.91-inch OLED display (128×32)
-- 1× Custom-designed PCB
-- 1× Flexible 5V LED filament (Optional I am currently experimenting for this will update soon)
-- M3 × 5 mm screws for case assembly
-- M3 heat-set inserts for the enclosure
-- 1× Custom 3D-printed case
-- 1× Custom under-desk mounting stand
-- Connecting wires and solder
+
+| Component | Quantity | Purchase Link |
+|---|---:|---|
+| Seeed XIAO RP2040 | 1 | [Buy here](https://www.seeedstudio.com/Seeed-XIAO-RP2040-v1-0-p-5026.html) |
+| Cherry MX Switches | 4 | [Amazon](https://www.amazon.ca/s?k=cherry+mx+switches) |
+| DSA Keycaps | 4 | [Amazon](https://www.amazon.ca/s?k=DSA+keycaps) |
+| Rotary Encoder | 1 | [Amazon](https://www.amazon.ca/s?k=EC11+rotary+encoder) |
+| 0.91-inch OLED | 1 | [Amazon](https://www.amazon.ca/s?k=0.91+OLED+SSD1306) |
+| 1N4148 Diodes | 5 | [Buy here](https://www.amazon.ca/s?k=1N4148+diodes) |
+| WS2812B LEDs | 2 | [Mouser](https://www.mouser.ca/c/?q=WS2812B) |
+| M3x5x4 Heat-set Inserts | 5 | [Amazon](https://www.amazon.ca/s?k=M3x5x4+heat+set+inserts) |
+| M3x16mm Screws | 3 | [Amazon](https://www.amazon.ca/s?k=M3x16+screws) |
+| M3x12mm Screws | 2 | [Amazon](https://www.amazon.ca/s?k=M3x12+screws) |
+| Custom PCB | 1 | [JLCPCB](https://jlcpcb.com/) |
 
 ## Extra Stuff
 
