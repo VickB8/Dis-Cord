@@ -1,0 +1,15 @@
+﻿Item,Quantity,Estimated Cost (CAD),Notes
+Seeed XIAO RP2040,1,12.00,Approximate average; verify current price
+Cherry MX Switches,4,4.00,Approximate cost for quantity used
+DSA Keycaps,4,6.00,Approximate cost for quantity used
+Rotary Encoder,1,4.00,Approximate average
+0.91-inch OLED Display,1,7.00,Approximate average
+1N4148 Diodes,5,1.00,Approximate cost for quantity used
+WS2812B LEDs,2,2.00,Approximate cost for quantity used
+M3x5x4 Heat-set Inserts,5,1.00,Approximate cost for quantity used; often sold in packs
+M3x16mm Screws,3,0.50,Approximate cost for quantity used
+M3x12mm Screws,2,0.50,Approximate cost for quantity used
+Custom PCB,1,10.00,Estimate; actual quote depends on board and shipping
+Estimated Component Total,,48.00,Excludes taxes and shipping
+Soldering Kit (reusable tool),1,25.00,Approximate estimate; actual price may differ
+Estimated Total Including Tools,,73.00,Excludes taxes and shipping; soldering kit is reusable
