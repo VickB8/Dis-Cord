@@ -228,7 +228,7 @@ Here is everything needed to build the Dis-Cord hackpad.
 
 | Component | Quantity | Purchase Link |
 |---|---:|---|
-| Seeed XIAO RP2040 | 1 | [Universal Solder](https://www.universal-solder.ca/product/seeed-studio-xiao-rp2040/) |
+| Seeed XIAO RP2040 | 1 | [AliExpress](https://www.aliexpress.com/w/wholesale-see​​ed-studio-xiao-rp2040.html) |
 | WS2812B LEDs | 2 | [DigiKey](https://www.digikey.ca/en/products/filter/led-addressable-specialty/126) |
 | Cherry MX Switches | 4 | [Amazon](https://www.amazon.ca/s?k=cherry+mx+switches) |
 | DSA Keycaps | 4 | [Amazon](https://www.amazon.ca/s?k=DSA+keycaps) |
