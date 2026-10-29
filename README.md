@@ -246,6 +246,31 @@ Here is everything needed to build the Dis-Cord hackpad.
 |---|---:|---|
 | Soldering Kit | 1 | [Amazon Canada](https://www.amazon.ca/dp/B0DT437CP4) |
 
+
+## Total Project Cost
+
+*Prices are approximate averages in CAD and may vary by supplier.*
+
+| Item | Quantity | Estimated Cost (CAD) |
+|---|---:|---:|
+| Seeed XIAO RP2040 | 1 | $12.00 |
+| Cherry MX Switches | 4 | $4.00 |
+| DSA Keycaps | 4 | $6.00 |
+| Rotary Encoder | 1 | $4.00 |
+| 0.91-inch OLED Display | 1 | $7.00 |
+| 1N4148 Diodes | 5 | $1.00 |
+| WS2812B LEDs | 2 | $2.00 |
+| M3x5x4 Heat-set Inserts | 5 | $1.00 |
+| M3x16mm Screws | 3 | $0.50 |
+| M3x12mm Screws | 2 | $0.50 |
+| Custom PCB | 1 | $10.00 |
+| **Estimated Component Total** | | **$48.00** |
+| Soldering Kit (reusable tool) | 1 | $25.00 |
+| **Estimated Total Including Tools** | | **$73.00** |
+
+*Note: These are approximate component-use costs. Hardware may be sold in multipacks, and the actual checkout total can be higher due to minimum order quantities, shipping, and taxes. The soldering kit is reusable and is not included in the component total.*
+
+
 ## Extra Stuff
 
 - USB cable for connecting the macropad to a computer
