@@ -228,13 +228,13 @@ Here is everything needed to build the Dis-Cord hackpad.
 
 | Component | Quantity | Purchase Link |
 |---|---:|---|
-| Seeed XIAO RP2040 | 1 | [Buy here](https://www.seeedstudio.com/Seeed-XIAO-RP2040-v1-0-p-5026.html) |
+| Seeed XIAO RP2040 | 1 | [Universal Solder](https://www.universal-solder.ca/product/seeed-studio-xiao-rp2040/) |
+| WS2812B LEDs | 2 | [DigiKey](https://www.digikey.ca/en/products/filter/led-addressable-specialty/126) |
 | Cherry MX Switches | 4 | [Amazon](https://www.amazon.ca/s?k=cherry+mx+switches) |
 | DSA Keycaps | 4 | [Amazon](https://www.amazon.ca/s?k=DSA+keycaps) |
 | Rotary Encoder | 1 | [Amazon](https://www.amazon.ca/s?k=EC11+rotary+encoder) |
 | 0.91-inch OLED | 1 | [Amazon](https://www.amazon.ca/s?k=0.91+OLED+SSD1306) |
 | 1N4148 Diodes | 5 | [Buy here](https://www.amazon.ca/s?k=1N4148+diodes) |
-| WS2812B LEDs | 2 | [Mouser](https://www.mouser.ca/c/?q=WS2812B) |
 | M3x5x4 Heat-set Inserts | 5 | [Amazon](https://www.amazon.ca/s?k=M3x5x4+heat+set+inserts) |
 | M3x16mm Screws | 3 | [Amazon](https://www.amazon.ca/s?k=M3x16+screws) |
 | M3x12mm Screws | 2 | [Amazon](https://www.amazon.ca/s?k=M3x12+screws) |
